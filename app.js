@@ -13,7 +13,7 @@ const app = new Koa()
 
 app.use(logger())
 
-const accessLogStream = fs.createWriteStream(__dirname + '/access.log')
+const accessLogStream = fs.createWriteStream(__dirname + '/log/access.log')
 app.use(morgan('short', { stream: accessLogStream }))
 
 // 防止html注入攻击
