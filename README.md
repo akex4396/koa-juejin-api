@@ -1,8 +1,10 @@
-### 项目介绍
+#### 项目介绍
 
-使用 koa2 作为中间层,提供掘金部分接口服务
+用 koa2 提供掘金部分接口服务
 
-### 主要接口
+<samp>code is licensed under <a href='./LICENSE'>MIT</a>
+
+#### 主要接口
 
 用户管理
 
@@ -14,12 +16,21 @@
 
 - 文章信息
 
-### 参考资料
+---
 
-[koa 中文网](https://koa.bootcss.com/) https://koa.bootcss.com/
+#### 待办
 
-[koa-阮一峰的网络日志](https://www.ruanyifeng.com/blog/2017/08/koa.html) https://www.ruanyifeng.com/blog/2017/08/koa.html
+- 使用 [vercel](https://vercel.com/) 部署后端
+- 日志管理
 
-### 声明
+---
 
-- 该项目仅限于学习参考,请勿他用!
+#### 参考资料
+
+[nuxt2 仿掘金 PC 端+koa2 进行后端转发](https://github.com/ChanWahFung/nuxt-juejin-project)
+
+- 本项目将对其后端部分进行抽离并重写部分接口
+
+[koa 中文网](https://koa.bootcss.com/)
+
+[koa-阮一峰的网络日志](https://www.ruanyifeng.com/blog/2017/08/koa.html)
