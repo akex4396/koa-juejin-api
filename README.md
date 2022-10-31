@@ -4,6 +4,12 @@
 
 <samp>code is licensed under <a href='./LICENSE'>MIT</a>
 
+**Node 版本**
+
+- 12.20.2
+
+---
+
 #### 主要接口
 
 用户管理
