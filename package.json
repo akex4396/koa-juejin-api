@@ -1,7 +1,7 @@
 {
-  "name": "koa-juejin-api",
+  "name": "junjin.akexc.com",
   "version": "1.0.0",
-  "description": "koa juejin apis",
+  "description": "使用koa提供掘金的部分接口",
   "author": "akex4396",
   "private": true,
   "main": "app.js",
