@@ -23,6 +23,8 @@
     "request": "^2.88.2"
   },
   "devDependencies": {
+    "koa-logger": "^3.2.1",
+    "koa-morgan": "^1.0.1",
     "nodemon": "^1.18.9"
   }
 }
